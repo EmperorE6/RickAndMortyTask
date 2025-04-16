@@ -10,10 +10,10 @@ status, gender etc and also displays the characters info in pages and it ensures
 1. How to open my project and view it
    in bash script write these commands:
    "git clone https://github.com/EmperorE6/RickAndMortyTask.git" and then write on terminal
-   "cd RickAndMortyTask" to access the project folder
+   "cd RickAndMortyTask" to access the project folder.
    Then go install the dependencies by writting in terminal
    "npm install"
-   and then write:
+   and then write
    "npm start" to start the project
    Hope this helps.
 
