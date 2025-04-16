@@ -1,3 +1,19 @@
+# The title of my project
+RickAndMortyTask
+## Description
+This is a React app that uses Apollo client to fetch and display informations from GraphQl API. It shows all characters from the show called Rick and Morty and sorts them by name, species,
+status, gender etc and also displays the characters info in pages and it ensures that there is good readability. The project can be viewed in Spanish language also by clicking the button change language.
+
+
+## Setup Instructions
+
+1. Clone the repository:
+   in bash script:
+   git clone https://github.com/EmperorE6/RickAndMortyTask.git
+   cd RickAndMortyTask
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
