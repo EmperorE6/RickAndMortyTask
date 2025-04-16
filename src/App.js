@@ -42,9 +42,9 @@ query {
 //here i handle the query with useQuery hook
 const {error,loading,data}=useQuery(getCharacters);
 
-if(loading) return <p>Data is loading....</p>
+if(loading) return <p>Data is loading..</p>
 
-if(error) return <p>Error,couldnt retrieve data.</p>
+if(error) return <p>Error,couldnt retrieve data...</p>
 const CharactersArray=data.characters.results;//i store here data from the api
 
 //this is function to handle the first page button,when i click on first page button i set page to 1 in this function(name and origin sorting array are emptied)

@@ -1,21 +1,19 @@
-# The title of my project
+# Title of project
 RickAndMortyTask
-## Description
-This is a React app that uses Apollo client to fetch and display informations from GraphQl API. It shows all characters from the show called Rick and Morty and sorts them by name, species,
-status, gender etc and also displays the characters info in pages and it ensures that there is good readability. The project can be viewed in Spanish language also by clicking the button change language.
+## Brief Description
+This is a react application that uses Apollo client to fetch and display all informations  from GraphQl API. It displays the characters from the show called Rick and Morty and sorts them by name, species,
+status, gender and also the user can go through pages to view the characters info, the pagination helps with project readability. The project can be viewed in Spanish language also by clicking the button Change Language.
 
 
-## Setup Instructions
+## How to view or open my project (Setup instructions)
 
-1. How to open my project and view it
-   in bash script write these commands:
-   "git clone https://github.com/EmperorE6/RickAndMortyTask.git" and then write on terminal
-   "cd RickAndMortyTask" to access the project folder.
-   Then go install the dependencies by writting in terminal
-   "npm install"
-   and then write
-   "npm start" to start the project
-   Hope this helps.
+1. All you have to do to view my project is writing following commands in terminal:
+   "git clone https://github.com/EmperorE6/RickAndMortyTask.git" and then in new line 
+   "cd RickAndMortyTask"
+These are used to clone the project. 
+The following are used to install dependencies  "npm install" and to start the project use in new line "npm start"
+
+
 
 
 # Getting Started with Create React App
