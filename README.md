@@ -7,11 +7,10 @@ status, gender etc and also displays the characters info in pages and it ensures
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. How to open my project and view it:
    in bash script:
    git clone https://github.com/EmperorE6/RickAndMortyTask.git
    cd RickAndMortyTask
-
 
 
 # Getting Started with Create React App
