@@ -1,7 +1,7 @@
 # The title of my project
 RickAndMortyTask
 ## Description
-This is a React app that uses Apollo client to fetch and display informations from GraphQl API. It shows all characters from the show called Rick and Morty and sorts them by name, species,
+This is a React application that uses Apollo client to fetch and display informations from GraphQl API. It shows all characters from the show called Rick and Morty and sorts them by name, species,
 status, gender etc and also displays the characters info in pages and it ensures that there is good readability. The project can be viewed in Spanish language also by clicking the button change language.
 
 
