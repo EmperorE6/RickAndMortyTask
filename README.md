@@ -8,11 +8,11 @@ status, gender and also the user can go through pages to view the characters inf
 ## How to view or open my project (Setup instructions)
 
 1. All you have to do to view my project is writing following commands in terminal:
-   "git clone https://github.com/EmperorE6/RickAndMortyTask.git"
+   "git clone https://github.com/EmperorE6/RickAndMortyTask.git" and then in new line 
    "cd RickAndMortyTask"
-These are used to clone the project. The following are used to install dependencies and start the project
-   "npm install"
-   "npm start"
+These are used to clone the project. 
+The following are used to install dependencies  "npm install" and to start the project use in new line "npm start"
+
 
 
 
